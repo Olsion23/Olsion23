@@ -3,7 +3,7 @@
 - 🌱 I’m currently deepening my knowledge in data structures, algorithms, and system design through Harvard's CS50 course, and expanding my skills in Spring Boot and REST APIs.
 - 💞️ I’m looking to collaborate on open-source projects, innovative tech solutions, and developer communities that focus on Java or Python-based technologies.
 - 📫 How to reach me: olsionbejleri777@gmail.com or via LinkedIn at linkedin.com/in/olsion-bejleri-74a68018u
-- 😄 Pronouns: Hi
+- 😄 Pronouns: He
 - ⚡ Fun fact: Combining Python’s academic strength in computer science with Java’s production power helps me design efficient and scalable applications from theory to deployment.
 
 <!---
